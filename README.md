@@ -1,4 +1,5 @@
 # github-recitation-s25
 
 Recitation Demo
-lollll
+
+in-n-out has best burgers!!! Five Guys has the best burgers!
